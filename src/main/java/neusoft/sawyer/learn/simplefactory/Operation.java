@@ -1,4 +1,4 @@
-package neusoft.sawyer.learn.factory;
+package neusoft.sawyer.learn.simplefactory;
 
 /**
  * Created by sawyer on 2019-06-17.

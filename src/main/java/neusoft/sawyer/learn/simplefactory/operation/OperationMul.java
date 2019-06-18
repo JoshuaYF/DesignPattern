@@ -1,6 +1,6 @@
-package neusoft.sawyer.learn.factory.operation;
+package neusoft.sawyer.learn.simplefactory.operation;
 
-import neusoft.sawyer.learn.factory.Operation;
+import neusoft.sawyer.learn.simplefactory.Operation;
 
 /**
  * Created by sawyer on 2019-06-17.

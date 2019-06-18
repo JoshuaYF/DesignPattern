@@ -1,16 +1,14 @@
-package neusoft.sawyer.learn.factory.factory;
+package neusoft.sawyer.learn.simplefactory;
 
-import neusoft.sawyer.learn.factory.Operation;
-import neusoft.sawyer.learn.factory.OperationType;
-import neusoft.sawyer.learn.factory.operation.OperationAdd;
-import neusoft.sawyer.learn.factory.operation.OperationDiv;
-import neusoft.sawyer.learn.factory.operation.OperationMul;
-import neusoft.sawyer.learn.factory.operation.OperationSub;
+import neusoft.sawyer.learn.simplefactory.operation.OperationAdd;
+import neusoft.sawyer.learn.simplefactory.operation.OperationDiv;
+import neusoft.sawyer.learn.simplefactory.operation.OperationMul;
+import neusoft.sawyer.learn.simplefactory.operation.OperationSub;
 
 /**
  * Created by sawyer on 2019-06-17.
  */
-public class OperationFactory {
+public class OperationSimpleFactory {
 
     public static Operation createOperation(OperationType operationType) {
         switch (operationType) {

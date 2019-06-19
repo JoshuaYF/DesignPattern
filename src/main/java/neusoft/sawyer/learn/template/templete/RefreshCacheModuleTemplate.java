@@ -1,11 +1,12 @@
-package neusoft.sawyer.learn.template;
+package neusoft.sawyer.learn.template.templete;
 
+import neusoft.sawyer.learn.template.CacheService;
 import neusoft.sawyer.learn.template.cache.Cache;
 
 /**
  * Created by sawyer on 2019-06-19.
  */
-abstract class RefreshCacheModuleTemplate {
+public abstract class RefreshCacheModuleTemplate {
 
     private CacheService cacheService;
 

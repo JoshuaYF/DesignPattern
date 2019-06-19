@@ -1,6 +1,9 @@
 package neusoft.sawyer.learn.template;
 
 import neusoft.sawyer.learn.template.cache.Cache;
+import neusoft.sawyer.learn.template.refreshmodule.RefreshCacheModuleA;
+import neusoft.sawyer.learn.template.refreshmodule.RefreshCacheModuleB;
+import neusoft.sawyer.learn.template.templete.RefreshCacheModuleTemplate;
 
 import java.util.HashMap;
 import java.util.Map;
